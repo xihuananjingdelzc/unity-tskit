@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="1600,900">
+  <displayList>
+    <component id="n2_rbes" name="btnStart" src="aemq6" fileName="components/Button.xml" xy="1280,627" size="220,86" controller="color_state,1">
+      <Button title="开始"/>
+    </component>
+    <component id="n6_rbes" name="btnExit" src="aemq6" fileName="components/Button.xml" xy="1280,743" size="220,86" controller="color_state,1">
+      <Button title="退出"/>
+    </component>
+  </displayList>
+</component>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="540,674" extention="Label">
+  <displayList>
+    <component id="n10_cx8u" name="frame" src="cx8ui" fileName="dialogs/_Frame.xml" xy="0,0" size="539,672">
+      <Button title="设定"/>
+    </component>
+    <text id="n1_7oxo" name="text" xy="68,218" size="403,147" fontSize="24" align="center" vAlign="middle" autoSize="none" text="暂时没有什么选项，请直接离开。"/>
+    <component id="n2_7oxo" name="btnYes" src="aemq6" fileName="components/Button.xml" xy="116,567" size="140,46" group="n4_7oxo">
+      <Button title="确定"/>
+    </component>
+    <component id="n3_7oxo" name="btnNo" src="aemq6" fileName="components/Button.xml" xy="284,567" size="140,46" group="n4_7oxo">
+      <Button title="取消"/>
+    </component>
+    <group id="n4_7oxo" name="n4" xy="116,567" size="308,46"/>
+  </displayList>
+</component>
